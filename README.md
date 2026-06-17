@@ -21,7 +21,7 @@ My current project is a Rust Nonogram Solver which can logically (and recursivel
 
 <img width="3456" height="1925" alt="image" src="https://github.com/user-attachments/assets/8aad5f77-87d2-4864-8e28-ad1bdfc30c2e" />
 
-And so much more...
+Some Other Cool Things I've Worked On:
 - [Conway's Game of Life](https://github.com/ThDudk/conways-game-of-life-made-with-bevy_ecs_tilemap) — Bevy ECS / Rust
 - [Propositional Logic Parser](https://github.com/ThDudk/Logic-Parser) — Swift
 - [Console TicTacToe](https://github.com/ThDudk/SwiftTicTacToe) — Swift
