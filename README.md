@@ -6,7 +6,7 @@ I'm currently working on a Rust Nonogram Solver which can logically (and recursi
 
 # Past projects
 
-Rust Wordle Guesser
+## [Rust Wordle Guesser](https://github.com/ThDudk/reverse_wordle)
 - Takes a world emoji string and returns the most likely guesses. This lets me take a peek at my friends wordle guesses, and tease them about it <:
 
 
