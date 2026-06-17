@@ -21,7 +21,7 @@ My current project is a Rust Nonogram Solver which can logically (and recursivel
 
 <img width="3456" height="1925" alt="image" src="https://github.com/user-attachments/assets/8aad5f77-87d2-4864-8e28-ad1bdfc30c2e" />
 
-Some Other Cool Things I've Worked On:
+# Some Other Cool Things I've Worked On:
 - [Conway's Game of Life](https://github.com/ThDudk/conways-game-of-life-made-with-bevy_ecs_tilemap) — Bevy ECS / Rust
 - [Propositional Logic Parser](https://github.com/ThDudk/Logic-Parser) — Swift
 - [Console TicTacToe](https://github.com/ThDudk/SwiftTicTacToe) — Swift
@@ -29,17 +29,3 @@ Some Other Cool Things I've Worked On:
 - [Simple Trees](https://github.com/ThDudk/simple-trees) — Java
 - [UVic Important Dates Parser](https://github.com/ThDudk/UvicImportantDatesParser) — Python
 - [Simple Morse](https://github.com/ThDudk/SimpleMorse) — JS / CSS / HTML
-<!--
-**ThDudk/ThDudk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
