@@ -21,6 +21,13 @@ My current project is a Rust Nonogram Solver which can logically (and recursivel
 
 <img width="3456" height="1925" alt="image" src="https://github.com/user-attachments/assets/8aad5f77-87d2-4864-8e28-ad1bdfc30c2e" />
 
+# Web Development
+
+## Simple Morse — JS / HTML / CSS
+- Web app created to help users learn Morse code through practice. 
+
+<img width="1064" height="624" alt="Screenshot 2026-10-28 at 1 36 47 PM" src="https://github.com/user-attachments/assets/aa5143cd-b791-4db0-ad6b-06c8ddb38eb9" />
+
 # Some Other Cool Things I've Worked On:
 - [Conway's Game of Life](https://github.com/ThDudk/conways-game-of-life-made-with-bevy_ecs_tilemap) — Bevy ECS / Rust
 - [Propositional Logic Parser](https://github.com/ThDudk/Logic-Parser) — Swift
