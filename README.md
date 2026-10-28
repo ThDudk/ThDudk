@@ -23,7 +23,7 @@ My current project is a Rust Nonogram Solver which can logically (and recursivel
 
 # Web Development
 
-## Simple Morse — JS / HTML / CSS
+## [Simple Morse](https://github.com/ThDudk/SimpleMorse) — JS / HTML / CSS
 - Web app created to help users learn Morse code through practice. 
 
 <img width="1064" height="624" alt="Screenshot 2026-10-28 at 1 36 47 PM" src="https://github.com/user-attachments/assets/aa5143cd-b791-4db0-ad6b-06c8ddb38eb9" />
@@ -35,4 +35,3 @@ My current project is a Rust Nonogram Solver which can logically (and recursivel
 - [Budget Crossy Road](https://github.com/ThDudk/Budget-Crossy-Road) — Unity / C#
 - [Simple Trees](https://github.com/ThDudk/simple-trees) — Java
 - [UVic Important Dates Parser](https://github.com/ThDudk/UvicImportantDatesParser) — Python
-- [Simple Morse](https://github.com/ThDudk/SimpleMorse) — JS / CSS / HTML
