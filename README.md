@@ -2,6 +2,9 @@
 
 I'm Michael (He/Him), a CSc student at UVic looking to learn and refine my skills. 
 
+## Other Socials
+- Itch.io: [https://thdudk.itch.io](https://thdudk.itch.io)
+
 You can contact me at shrewd.94-fill@icloud.com (this forwards to me <:)
 
 > If you're a UVic student, you should subscribe to my UVicEvents calendar. It's updated regularly thanks to my [UVic Important Dates Parser](https://github.com/ThDudk/UvicImportantDatesParser). [[Learn More](https://nocal.app/help/ics-and-subscriptions/subscribe-to-calendar-by-url)]
