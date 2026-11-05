@@ -6,7 +6,7 @@ My current project is a Nonogram Duo, an online and local multiplayer game where
 
 # Past projects
 
-## [Nonogram Solver](https://github.com/ThDudk/nonogram-solver)
+## [Nonogram Solver](https://github.com/ThDudk/nonogram-solver) — Rust
 - Uses a logical solver to solve puzzles and identify unsolvable puzzles.
 - Can generate random puzzles with the ability to only generate solvable ones.
 
