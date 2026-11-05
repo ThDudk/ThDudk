@@ -5,6 +5,7 @@ I'm Michael (He/Him), a CSc student at UVic looking to learn and refine my skill
 You can contact me at shrewd.94-fill@icloud.com (this forwards to me <:)
 
 > If you're a UVic student, you should subscribe to my UVicEvents calendar. It's updated regularly thanks to my [UVic Important Dates Parser](https://github.com/ThDudk/UvicImportantDatesParser). [[Learn More](https://nocal.app/help/ics-and-subscriptions/subscribe-to-calendar-by-url)]
+>
 > webcal://p168-caldav.icloud.com/published/2/MzA0Mjg2Njc3MzA0Mjg2NkdYPudjvFbiPigDs-Zb2DtCzQO7bqU9XTdCI996E9b9AflYGtmc5bys-fX6_bUNQ0R9rmvvY6FN0NYJE7TJ1bg
 
 My current project is a Nonogram Duo, an online and local multiplayer game where you solve nonogram puzzles together with your friends.
