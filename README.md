@@ -29,6 +29,7 @@ My current project is a Nonogram Duo, an online and local multiplayer game where
 - Game made in a team of 4 as a part of the UVic Game Development Club. 
 - It's a 2d sidescroller where you play a crow trying to steal treasure, slowly upgrading until you can steal the king's crown.
 
+| <img width="3456" height="1925" alt="image" src="https://github.com/user-attachments/assets/8aad5f77-87d2-4864-8e28-ad1bdfc30c2e" /> |
 <img width="3456" height="1925" alt="image" src="https://github.com/user-attachments/assets/8aad5f77-87d2-4864-8e28-ad1bdfc30c2e" />
 
 # Web Development
