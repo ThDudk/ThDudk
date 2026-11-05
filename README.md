@@ -2,9 +2,13 @@
 
 I'm Michael (He/Him), a CSc student at UVic looking to learn and refine my skills. 
 
-My current project is a Rust Nonogram Solver which can logically (and recursively) solve any nonogram puzzle, as well as generate solveable puzzles for you. 
+My current project is a Nonogram Duo, an online and local multiplayer game where you solve nonogram puzzles together with your friends.
 
 # Past projects
+
+## [Nonogram Solver](https://github.com/ThDudk/nonogram-solver)
+- Uses a logical solver to solve puzzles and identify unsolvable puzzles.
+- Can generate random puzzles with the ability to only generate solvable ones.
 
 ## [Reverse Wordle](https://github.com/ThDudk/reverse_wordle) — Rust
 - Takes a the shared worldle emoji string and returns the most likely guesses.
